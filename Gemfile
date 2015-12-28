@@ -9,7 +9,7 @@ group :development do
 # ===~===~===~===~===~===~===~===~===~===
 group :production do
   # gem 'pg'
-  gem 'mysql2'
+  gem 'pg'
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
